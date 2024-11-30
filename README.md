@@ -1,4 +1,5 @@
 AthloZone 🏀🏈⚽
+
 Descripción General
 AthloZone es una aplicación de gestión de artículos deportivos desarrollada con PyQt5, QtDesigner, Python y PostgreSQL, diseñada para simplificar la administración de inventario, ventas, clientes y proveedores en negocios deportivos.
 
